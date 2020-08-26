@@ -21,9 +21,19 @@ Obsah je poskytovaný v súlade s licenciou [CC BY-NC-SA 4.0][cc-by-nc-sa]. V sk
 
 Landing image by [Scott Warman](https://unsplash.com/@scottiewarman?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge)
 
+## Install
+
+Instal nvm. Follow steps in given order:
+```
+nvm use # use node and npm with specific version
+npm config set ignore-scripts false # enable to use scripts. Scripts should be ignored due security reasons by default
+npm install
+npm config set ignore-scripts true # disable scripts back.
+```
+
 ## Development
 
-For development create new branches with features and merge them into `development` branch. 
+For development create new branches with features and merge them into `development` branch.
 
 ## Deployment
 
