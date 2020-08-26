@@ -1,10 +1,14 @@
 # Toastmasters Košice [![alt_text][fb_icon]][fb_page]
 **LEGACY WEBPAGE**
 
-[![Build Status](https://api.travis-ci.com/toastmasters-kosice/toastmasters-kosice.github.io.svg?branch=develop)](https://travis-ci.com/toastmasters-kosice/toastmasters-kosice.github.io)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)][cc-by-nc-sa]
 
 Webová stránka klubu [Toastmasters Košice][tm-kosice-website].
+
+This is just a fork of Toastmasters Kosice legacy webpage, that I use as part of my portfolio. Original page is there:
+[Original code](https://github.com/toastmasters-kosice/tmke-web-legacy)
+
+I used this project to learn Gatsby and test deployment to Netlify.
 
 ## Licencia
 [![License: CC BY-NC-SA 4.0][cc-by-nc-sa-icon]][cc-by-nc-sa]
@@ -12,7 +16,7 @@ Webová stránka klubu [Toastmasters Košice][tm-kosice-website].
 Obsah je poskytovaný v súlade s licenciou [CC BY-NC-SA 4.0][cc-by-nc-sa]. V skratke, obsah môžete zdieľať a upravovať na nekomerčné účely za predpokladu, že uvediete pôvodného autora a zmeny zverejníte pod tou istou licenciou.
 
 [//]: # (Used references)
-[tm-kosice-website]: http://toastmasterskosice.eu/
+[tm-kosice-website]: https://www.toastmasterskosice.sk/
 [fb_icon]: http://i.imgur.com/fep1WsG.png (Facebook klubu Toastmasters Košice)
 [fb_page]: https://www.facebook.com/toastmasters.kosice/
 [cc-by-nc-sa-icon]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
